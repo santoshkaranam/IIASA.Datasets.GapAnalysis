@@ -1,0 +1,26 @@
+From Hadi
+Campaign 1: 
+Name:- Land cover class identification (ca. 2016 in East Kalimantan, ca. 2017 in South Sumatera), pilot campaign in two provinces
+Questions Asked:-(translated from Indonesian)"Do you see <land cover class> in more than half of the picture?"
+Classes:  - Natural forest, Tree based system, Non Tree based system, Non vegetation . (Tree based system includes monoculture and plantation forest; Non tree based system includes cropland, grass, and shrub; Non vegetation includes cleared land, settlement, and water).
+Spatial Extent: Indonesia , provinces South Sumatera and East Kalimantan
+Time/Date duration of campaign: (10 April 2019 - 30 May 2019)
+No. of samples: YES consensus answer (simple majority answer and higher mean of contributors' weight): 2276 (South Sumatera), 2365 (East Kalimantan).
+ 
+ 
+Campaign 2:
+Name:-Land cover change (between ca. 2010 and ca. 2018) identification campaign, pilot campaign in two provinces
+Questions Asked:-(translated from Indonesian)"Are the trees in the picture A more dense than in the picture B?" (A is image of earlier date, B is image of later date)
+Classes:  - Land cover change, more specifically land degradation in the form of decrease in tree cover
+Spatial Extent: Indonesia, provinces South Sumatera and East Kalimantan
+Time/Date duration of campaign: (28 Aug 2019 - 10 Oct 2019)
+No. of samples: YES consensus answer (weighted mean answer >= 0.5): 1365 (South Sumatera), 2185 (East Kalimantan).
+ 
+ 
+Campaign 3:  
+Name:- Land cover class identification, national campaign
+Questions Asked:-(translated from Indonesian)"Do you see <land cover class> in more than half of the picture?"
+Classes:  - Undisturbed forest, Logged over forest, Oil Palm Monoculture, Tree based not oil palm, Cropland, Shrub, Grass/Savannah; images of years 2010, 2015, 2018 (some images have same locations for 2015 and 2018)
+Spatial Extent: Indonesia, whole country
+Time/Date duration of campaign: (19 Dec 2019 -  26 April 2020)
+No. of sampels: after quality filters (YES consensus answer, min validations 6, weighted mean answer >= 0.8): 18271 (2018), 14469 (2015), and 10671 (2010).
